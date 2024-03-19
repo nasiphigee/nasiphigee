@@ -1,16 +1,54 @@
-### Hi there 👋
+# Hello, I'm Nasiphi Gwija! 👋
 
-<!--
-**nasiphigee/nasiphigee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Developer with experience in building web applications using React, Node.js, JavaScript, Html and Css. I love turning ideas into reality through coding and problem-solving.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enhancing my skills in React.js by building my online portfolio, and soon to work on a travelling agency app.
+- Exploring backend development with Node.js and MangoDB. 
+
+## 🌱 I’m currently learning
+
+- Advanced React patterns, Wordpress and perfecting my Figma skills.
+
+## 👩🏻‍💻 Skills  
+Front End 
+- HTML
+- CSS
+- JavaScript
+- React
+
+BACK- END 
+- Node.js
+
+PROGRAMMING LANGUAGE 
+- Java
+- Python
+- C#
+- PHP
+
+DATABASE
+- MySQL
+
+## 👯 I’m looking to collaborate on
+
+- React.js projects where I can contribute my frontend development skills.
+- Open-source projects related to web development.
+
+## 💬 Ask me about
+
+- React.js and frontend development.
+- Software engineering best practices.
+- My experience working on previous projects.
+
+## 📫 How to reach me
+
+Feel free to reach out to me via email at nasiphigee@gmail.com.
+
+## 😄 Pronouns
+
+Her
+
+## ⚡ Fun fact
+
+I'm an avid reader and enjoy singing!
